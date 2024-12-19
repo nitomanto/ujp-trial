@@ -1,0 +1,2062 @@
+GEOID,city,year,total_police_killings,unarmed_police_killings
+0107000,birmingham city,2014,3,1
+0107000,birmingham city,2015,3,0
+0107000,birmingham city,2016,4,1
+0107000,birmingham city,2017,4,0
+0107000,birmingham city,2018,1,0
+0107000,birmingham city,2019,1,0
+0107000,birmingham city,2020,2,1
+0107000,birmingham city,2021,4,1
+0107000,birmingham city,2022,1,0
+0107000,birmingham city,2023,1,0
+0137000,huntsville city,2013,2,1
+0137000,huntsville city,2014,2,0
+0137000,huntsville city,2015,1,0
+0137000,huntsville city,2016,2,2
+0137000,huntsville city,2017,3,0
+0137000,huntsville city,2018,1,0
+0137000,huntsville city,2019,3,1
+0137000,huntsville city,2020,2,0
+0137000,huntsville city,2022,1,1
+0137000,huntsville city,2023,4,1
+0150000,mobile city,2013,2,0
+0150000,mobile city,2016,1,0
+0150000,mobile city,2017,2,1
+0150000,mobile city,2018,1,0
+0150000,mobile city,2020,1,0
+0150000,mobile city,2021,2,0
+0150000,mobile city,2023,4,1
+0151000,montgomery city,2016,1,0
+0151000,montgomery city,2018,3,1
+0151000,montgomery city,2020,1,0
+0151000,montgomery city,2021,1,1
+0151000,montgomery city,2022,1,0
+0151000,montgomery city,2023,1,0
+0203000,anchorage municipality,2013,3,0
+0203000,anchorage municipality,2015,1,0
+0203000,anchorage municipality,2016,3,0
+0203000,anchorage municipality,2017,2,0
+0203000,anchorage municipality,2018,1,0
+0203000,anchorage municipality,2019,3,1
+0203000,anchorage municipality,2020,3,1
+0203000,anchorage municipality,2023,1,0
+0412000,chandler city,2014,1,1
+0412000,chandler city,2015,1,0
+0412000,chandler city,2016,1,0
+0412000,chandler city,2017,1,0
+0412000,chandler city,2018,1,0
+0412000,chandler city,2020,2,1
+0412000,chandler city,2021,1,0
+0412000,chandler city,2022,3,1
+0412000,chandler city,2023,2,0
+0427400,gilbert town,2015,2,0
+0427400,gilbert town,2016,2,1
+0427400,gilbert town,2017,2,0
+0427400,gilbert town,2018,2,0
+0427400,gilbert town,2022,2,0
+0427820,glendale city,2013,2,0
+0427820,glendale city,2014,3,0
+0427820,glendale city,2015,3,0
+0427820,glendale city,2016,2,0
+0427820,glendale city,2017,6,2
+0427820,glendale city,2018,4,0
+0427820,glendale city,2019,3,0
+0427820,glendale city,2020,1,0
+0427820,glendale city,2021,4,1
+0427820,glendale city,2022,3,0
+0427820,glendale city,2023,2,1
+0446000,mesa city,2013,4,1
+0446000,mesa city,2014,2,1
+0446000,mesa city,2015,3,0
+0446000,mesa city,2016,3,1
+0446000,mesa city,2017,3,0
+0446000,mesa city,2018,9,1
+0446000,mesa city,2019,3,0
+0446000,mesa city,2020,6,1
+0446000,mesa city,2021,1,0
+0446000,mesa city,2022,6,0
+0446000,mesa city,2023,5,0
+0454050,peoria city,2013,1,0
+0454050,peoria city,2015,3,0
+0454050,peoria city,2018,1,0
+0454050,peoria city,2019,1,0
+0454050,peoria city,2021,1,0
+0454050,peoria city,2022,2,0
+0455000,phoenix city,2013,25,4
+0455000,phoenix city,2014,17,5
+0455000,phoenix city,2015,10,1
+0455000,phoenix city,2016,16,2
+0455000,phoenix city,2017,15,3
+0455000,phoenix city,2018,28,2
+0455000,phoenix city,2019,15,4
+0455000,phoenix city,2020,17,5
+0455000,phoenix city,2021,11,2
+0455000,phoenix city,2022,11,1
+0455000,phoenix city,2023,14,4
+0465000,scottsdale city,2013,2,0
+0465000,scottsdale city,2014,2,0
+0465000,scottsdale city,2015,2,1
+0465000,scottsdale city,2016,1,0
+0465000,scottsdale city,2018,4,0
+0465000,scottsdale city,2020,2,0
+0465000,scottsdale city,2021,1,0
+0465000,scottsdale city,2022,1,0
+0465000,scottsdale city,2023,1,0
+0471510,surprise city,2013,1,0
+0471510,surprise city,2016,1,0
+0471510,surprise city,2018,1,0
+0471510,surprise city,2021,1,0
+0471510,surprise city,2023,1,1
+0473000,tempe city,2013,2,1
+0473000,tempe city,2014,2,0
+0473000,tempe city,2015,4,1
+0473000,tempe city,2016,2,1
+0473000,tempe city,2017,1,0
+0473000,tempe city,2018,3,0
+0473000,tempe city,2019,3,1
+0473000,tempe city,2020,2,1
+0473000,tempe city,2021,2,0
+0473000,tempe city,2022,3,0
+0473000,tempe city,2023,4,1
+0477000,tucson city,2013,6,1
+0477000,tucson city,2014,6,1
+0477000,tucson city,2015,3,0
+0477000,tucson city,2016,6,1
+0477000,tucson city,2017,4,1
+0477000,tucson city,2018,8,0
+0477000,tucson city,2019,4,0
+0477000,tucson city,2020,5,1
+0477000,tucson city,2021,7,0
+0477000,tucson city,2022,7,1
+0477000,tucson city,2023,7,1
+0541000,little rock city,2013,4,0
+0541000,little rock city,2014,2,1
+0541000,little rock city,2016,2,2
+0541000,little rock city,2017,4,0
+0541000,little rock city,2019,2,0
+0541000,little rock city,2020,3,0
+0541000,little rock city,2021,1,1
+0541000,little rock city,2023,5,2
+0602000,anaheim city,2014,3,0
+0602000,anaheim city,2015,2,0
+0602000,anaheim city,2016,5,2
+0602000,anaheim city,2017,1,0
+0602000,anaheim city,2018,3,3
+0602000,anaheim city,2019,6,1
+0602000,anaheim city,2020,3,0
+0602000,anaheim city,2021,3,1
+0602000,anaheim city,2022,2,0
+0602000,anaheim city,2023,2,1
+0602252,antioch city,2013,2,0
+0602252,antioch city,2015,1,0
+0602252,antioch city,2016,1,1
+0602252,antioch city,2017,2,0
+0602252,antioch city,2018,1,1
+0602252,antioch city,2020,1,1
+0602252,antioch city,2021,2,2
+0603526,bakersfield city,2013,8,3
+0603526,bakersfield city,2014,4,2
+0603526,bakersfield city,2015,6,1
+0603526,bakersfield city,2016,4,1
+0603526,bakersfield city,2017,3,1
+0603526,bakersfield city,2018,1,1
+0603526,bakersfield city,2019,1,0
+0603526,bakersfield city,2020,8,0
+0603526,bakersfield city,2021,6,1
+0603526,bakersfield city,2022,3,0
+0603526,bakersfield city,2023,3,1
+0606000,berkeley city,2017,1,0
+0606000,berkeley city,2021,1,0
+0606000,berkeley city,2023,2,0
+0608954,burbank city,2013,2,1
+0608954,burbank city,2015,1,1
+0608954,burbank city,2016,1,1
+0608954,burbank city,2017,1,1
+0608954,burbank city,2021,1,0
+0608954,burbank city,2023,1,1
+0611194,carlsbad city,2017,1,0
+0611194,carlsbad city,2020,1,0
+0611194,carlsbad city,2021,1,0
+0613014,chico city,2013,1,0
+0613014,chico city,2015,1,0
+0613014,chico city,2017,2,0
+0613014,chico city,2020,1,0
+0613392,chula vista city,2014,1,0
+0613392,chula vista city,2015,1,1
+0613392,chula vista city,2016,1,0
+0613392,chula vista city,2017,1,0
+0613392,chula vista city,2019,1,1
+0613392,chula vista city,2020,2,0
+0613392,chula vista city,2021,1,0
+0613392,chula vista city,2022,1,0
+0613392,chula vista city,2023,1,0
+0614218,clovis city,2014,1,0
+0614218,clovis city,2015,1,0
+0614218,clovis city,2016,1,0
+0614218,clovis city,2020,1,1
+0616000,concord city,2014,2,0
+0616000,concord city,2016,1,0
+0616000,concord city,2019,1,0
+0616350,corona city,2013,1,0
+0616350,corona city,2017,1,0
+0616350,corona city,2018,1,0
+0616350,corona city,2021,2,0
+0616350,corona city,2022,1,0
+0616532,costa mesa city,2014,2,0
+0616532,costa mesa city,2021,1,0
+0617918,daly city city,2017,2,1
+0617918,daly city city,2018,2,1
+0617918,daly city city,2020,1,0
+0617918,daly city city,2021,1,1
+0619766,downey city,2014,1,1
+0619766,downey city,2015,1,0
+0619766,downey city,2016,1,0
+0619766,downey city,2017,2,0
+0619766,downey city,2022,1,1
+0621712,el cajon city,2016,2,2
+0621712,el cajon city,2021,1,0
+0622020,elk grove city,2016,1,1
+0622020,elk grove city,2018,1,0
+0622020,elk grove city,2021,1,1
+0622020,elk grove city,2023,1,0
+0622230,el monte city,2015,4,0
+0622230,el monte city,2016,1,0
+0622230,el monte city,2019,2,0
+0622230,el monte city,2021,1,0
+0622804,escondido city,2013,1,0
+0622804,escondido city,2014,1,0
+0622804,escondido city,2017,1,0
+0622804,escondido city,2021,3,0
+0622804,escondido city,2023,1,0
+0623182,fairfield city,2013,3,1
+0623182,fairfield city,2015,1,0
+0623182,fairfield city,2022,2,0
+0624680,fontana city,2013,1,0
+0624680,fontana city,2015,6,0
+0624680,fontana city,2018,1,0
+0624680,fontana city,2020,1,0
+0624680,fontana city,2022,2,0
+0624680,fontana city,2023,4,0
+0626000,fremont city,2013,4,0
+0626000,fremont city,2015,2,0
+0626000,fremont city,2016,1,0
+0626000,fremont city,2017,1,1
+0626000,fremont city,2018,1,0
+0626000,fremont city,2019,1,0
+0626000,fremont city,2021,3,0
+0627000,fresno city,2013,5,1
+0627000,fresno city,2014,8,1
+0627000,fresno city,2015,5,2
+0627000,fresno city,2016,4,2
+0627000,fresno city,2017,3,1
+0627000,fresno city,2018,3,1
+0627000,fresno city,2019,3,0
+0627000,fresno city,2020,4,1
+0627000,fresno city,2021,2,0
+0627000,fresno city,2022,5,1
+0627000,fresno city,2023,4,0
+0628000,fullerton city,2014,1,0
+0628000,fullerton city,2016,3,0
+0628000,fullerton city,2018,1,0
+0628000,fullerton city,2019,3,1
+0628000,fullerton city,2020,2,0
+0628000,fullerton city,2021,2,1
+0629000,garden grove city,2013,3,0
+0629000,garden grove city,2014,1,0
+0629000,garden grove city,2015,1,0
+0629000,garden grove city,2016,1,0
+0629000,garden grove city,2018,2,1
+0629000,garden grove city,2019,3,0
+0629000,garden grove city,2020,3,1
+0629000,garden grove city,2023,1,0
+0630000,glendale city,2014,1,0
+0630000,glendale city,2015,1,0
+0630000,glendale city,2016,1,0
+0630000,glendale city,2019,1,0
+0630000,glendale city,2022,1,0
+0630000,glendale city,2023,1,1
+0633000,hayward city,2013,2,1
+0633000,hayward city,2014,2,2
+0633000,hayward city,2016,1,0
+0633000,hayward city,2017,1,1
+0633000,hayward city,2018,1,0
+0633000,hayward city,2020,2,0
+0633000,hayward city,2021,2,0
+0633000,hayward city,2023,1,1
+0636000,huntington beach city,2013,3,1
+0636000,huntington beach city,2014,1,0
+0636000,huntington beach city,2017,2,0
+0636000,huntington beach city,2018,1,0
+0636000,huntington beach city,2021,1,0
+0636546,inglewood city,2013,2,0
+0636546,inglewood city,2014,1,0
+0636546,inglewood city,2016,4,1
+0636546,inglewood city,2017,1,0
+0636546,inglewood city,2018,2,1
+0636546,inglewood city,2019,3,0
+0636546,inglewood city,2020,2,0
+0636546,inglewood city,2022,2,0
+0636546,inglewood city,2023,2,0
+0636770,irvine city,2018,1,0
+0636770,irvine city,2022,1,0
+0636770,irvine city,2023,1,0
+0637692,jurupa valley city,2013,2,0
+0637692,jurupa valley city,2015,2,0
+0637692,jurupa valley city,2018,3,0
+0637692,jurupa valley city,2020,1,1
+0637692,jurupa valley city,2022,1,0
+0640130,lancaster city,2015,1,0
+0640130,lancaster city,2016,1,0
+0640130,lancaster city,2018,1,0
+0640130,lancaster city,2019,2,0
+0640130,lancaster city,2020,3,2
+0640130,lancaster city,2022,2,0
+0640130,lancaster city,2023,1,0
+0643000,long beach city,2013,7,0
+0643000,long beach city,2014,5,0
+0643000,long beach city,2015,7,4
+0643000,long beach city,2016,5,2
+0643000,long beach city,2017,5,1
+0643000,long beach city,2018,2,0
+0643000,long beach city,2019,3,2
+0643000,long beach city,2020,5,0
+0643000,long beach city,2021,4,1
+0643000,long beach city,2022,3,0
+0643000,long beach city,2023,1,0
+0644000,los angeles city,2013,23,3
+0644000,los angeles city,2014,24,4
+0644000,los angeles city,2015,25,5
+0644000,los angeles city,2016,26,3
+0644000,los angeles city,2017,31,4
+0644000,los angeles city,2018,23,6
+0644000,los angeles city,2019,16,1
+0644000,los angeles city,2020,15,2
+0644000,los angeles city,2021,22,3
+0644000,los angeles city,2022,19,3
+0644000,los angeles city,2023,18,3
+0646842,menifee city,2013,1,0
+0646842,menifee city,2014,1,1
+0646842,menifee city,2019,1,0
+0646842,menifee city,2023,1,0
+0648354,modesto city,2013,1,0
+0648354,modesto city,2015,3,2
+0648354,modesto city,2016,2,0
+0648354,modesto city,2017,2,0
+0648354,modesto city,2019,5,3
+0648354,modesto city,2020,3,2
+0648354,modesto city,2022,1,0
+0649270,moreno valley city,2013,1,1
+0649270,moreno valley city,2015,1,0
+0649270,moreno valley city,2017,1,0
+0649270,moreno valley city,2021,1,0
+0649270,moreno valley city,2022,1,1
+0649270,moreno valley city,2023,1,0
+0650076,murrieta city,2016,1,0
+0650076,murrieta city,2019,1,0
+0650076,murrieta city,2020,1,0
+0652526,norwalk city,2013,1,1
+0652526,norwalk city,2015,1,0
+0652526,norwalk city,2016,1,0
+0652526,norwalk city,2017,1,0
+0652526,norwalk city,2021,1,1
+0653000,oakland city,2013,3,0
+0653000,oakland city,2014,4,1
+0653000,oakland city,2015,6,1
+0653000,oakland city,2017,3,2
+0653000,oakland city,2018,2,0
+0653000,oakland city,2019,1,1
+0653000,oakland city,2020,3,0
+0653000,oakland city,2021,2,0
+0653000,oakland city,2023,2,0
+0653322,oceanside city,2014,1,0
+0653322,oceanside city,2017,2,0
+0653322,oceanside city,2020,1,0
+0653896,ontario city,2013,1,0
+0653896,ontario city,2014,1,0
+0653896,ontario city,2015,3,0
+0653896,ontario city,2016,1,0
+0653896,ontario city,2017,1,0
+0653896,ontario city,2019,2,1
+0653896,ontario city,2020,3,0
+0653896,ontario city,2021,2,0
+0653896,ontario city,2022,2,0
+0653980,orange city,2013,1,0
+0653980,orange city,2014,1,0
+0653980,orange city,2015,1,0
+0653980,orange city,2019,2,1
+0654652,oxnard city,2013,1,1
+0654652,oxnard city,2015,1,0
+0654652,oxnard city,2023,3,0
+0655156,palmdale city,2014,1,0
+0655156,palmdale city,2015,1,1
+0655156,palmdale city,2017,1,1
+0655156,palmdale city,2019,2,0
+0655156,palmdale city,2022,1,0
+0655156,palmdale city,2023,1,0
+0656000,pasadena city,2016,1,0
+0656000,pasadena city,2019,1,0
+0656000,pasadena city,2020,2,0
+0656000,pasadena city,2021,2,0
+0656000,pasadena city,2023,1,0
+0658072,pomona city,2013,2,0
+0658072,pomona city,2015,2,2
+0658072,pomona city,2017,1,0
+0658072,pomona city,2018,1,0
+0658072,pomona city,2020,2,0
+0658072,pomona city,2022,1,0
+0658072,pomona city,2023,1,1
+0659451,rancho cucamonga city,2017,1,0
+0659451,rancho cucamonga city,2020,1,0
+0659451,rancho cucamonga city,2021,2,0
+0659451,rancho cucamonga city,2022,4,0
+0659451,rancho cucamonga city,2023,1,0
+0660466,rialto city,2015,2,0
+0660466,rialto city,2017,2,0
+0660466,rialto city,2018,1,0
+0660466,rialto city,2019,1,0
+0660466,rialto city,2020,3,0
+0660466,rialto city,2021,1,0
+0660466,rialto city,2022,1,0
+0660466,rialto city,2023,1,0
+0660620,richmond city,2014,1,0
+0660620,richmond city,2017,1,0
+0660620,richmond city,2019,1,0
+0660620,richmond city,2020,1,0
+0660620,richmond city,2021,2,1
+0660620,richmond city,2023,1,0
+0662000,riverside city,2013,6,0
+0662000,riverside city,2014,1,0
+0662000,riverside city,2017,2,0
+0662000,riverside city,2018,3,0
+0662000,riverside city,2019,1,0
+0662000,riverside city,2021,2,0
+0662000,riverside city,2022,4,3
+0662000,riverside city,2023,2,1
+0662938,roseville city,2013,1,1
+0662938,roseville city,2019,1,0
+0662938,roseville city,2020,1,0
+0664000,sacramento city,2013,1,1
+0664000,sacramento city,2014,3,0
+0664000,sacramento city,2015,2,2
+0664000,sacramento city,2016,2,0
+0664000,sacramento city,2017,1,0
+0664000,sacramento city,2018,3,2
+0664000,sacramento city,2020,6,1
+0664000,sacramento city,2021,1,0
+0664000,sacramento city,2022,8,4
+0664000,sacramento city,2023,2,0
+0664224,salinas city,2013,1,0
+0664224,salinas city,2014,5,2
+0664224,salinas city,2017,1,0
+0664224,salinas city,2019,1,0
+0664224,salinas city,2021,1,1
+0664224,salinas city,2022,2,2
+0664224,salinas city,2023,2,0
+0665000,san bernardino city,2013,1,0
+0665000,san bernardino city,2014,7,0
+0665000,san bernardino city,2015,6,0
+0665000,san bernardino city,2016,4,0
+0665000,san bernardino city,2017,3,0
+0665000,san bernardino city,2018,1,0
+0665000,san bernardino city,2019,3,0
+0665000,san bernardino city,2020,9,1
+0665000,san bernardino city,2021,4,1
+0665000,san bernardino city,2022,5,0
+0665000,san bernardino city,2023,5,0
+0665042,san buenaventura (ventura) city,2013,1,0
+0665042,san buenaventura (ventura) city,2020,1,0
+0666000,san diego city,2013,7,1
+0666000,san diego city,2014,4,2
+0666000,san diego city,2015,9,6
+0666000,san diego city,2016,3,0
+0666000,san diego city,2017,4,1
+0666000,san diego city,2018,3,0
+0666000,san diego city,2019,6,2
+0666000,san diego city,2020,7,2
+0666000,san diego city,2021,3,0
+0666000,san diego city,2022,7,0
+0666000,san diego city,2023,7,1
+0667000,san francisco city,2013,2,0
+0667000,san francisco city,2014,3,0
+0667000,san francisco city,2015,6,1
+0667000,san francisco city,2016,3,1
+0667000,san francisco city,2017,4,2
+0667000,san francisco city,2018,3,1
+0667000,san francisco city,2020,1,0
+0667000,san francisco city,2021,2,1
+0667000,san francisco city,2022,2,1
+0667000,san francisco city,2023,4,0
+0668000,san jose city,2013,5,0
+0668000,san jose city,2014,3,0
+0668000,san jose city,2015,6,1
+0668000,san jose city,2016,3,0
+0668000,san jose city,2017,4,1
+0668000,san jose city,2018,2,0
+0668000,san jose city,2019,4,1
+0668000,san jose city,2020,1,0
+0668000,san jose city,2021,3,1
+0668000,san jose city,2022,2,0
+0668000,san jose city,2023,1,0
+0668252,san mateo city,2017,1,0
+0668252,san mateo city,2023,1,1
+0669000,santa ana city,2013,3,1
+0669000,santa ana city,2015,2,1
+0669000,santa ana city,2016,4,0
+0669000,santa ana city,2017,3,1
+0669000,santa ana city,2018,3,0
+0669000,santa ana city,2020,2,0
+0669000,santa ana city,2021,2,0
+0669000,santa ana city,2022,2,1
+0669084,santa clara city,2014,1,0
+0669084,santa clara city,2015,2,0
+0669084,santa clara city,2017,1,0
+0669084,santa clara city,2019,2,0
+0669084,santa clara city,2022,2,0
+0669088,santa clarita city,2014,1,0
+0669088,santa clarita city,2016,1,0
+0669088,santa clarita city,2019,1,0
+0669088,santa clarita city,2020,1,0
+0669088,santa clarita city,2021,1,0
+0669088,santa clarita city,2022,1,0
+0669088,santa clarita city,2023,2,1
+0669196,santa maria city,2013,1,0
+0669196,santa maria city,2015,1,0
+0669196,santa maria city,2018,1,0
+0669196,santa maria city,2022,1,0
+0669196,santa maria city,2023,1,0
+0670098,santa rosa city,2013,1,1
+0670098,santa rosa city,2015,1,0
+0670098,santa rosa city,2017,1,0
+0670098,santa rosa city,2021,1,0
+0672016,simi valley city,2013,1,0
+0672016,simi valley city,2022,1,0
+0675000,stockton city,2013,2,0
+0675000,stockton city,2014,4,1
+0675000,stockton city,2015,4,0
+0675000,stockton city,2016,6,2
+0675000,stockton city,2017,1,0
+0675000,stockton city,2019,3,0
+0675000,stockton city,2020,2,1
+0675000,stockton city,2021,2,0
+0675000,stockton city,2022,1,0
+0675000,stockton city,2023,4,1
+0677000,sunnyvale city,2013,2,1
+0677000,sunnyvale city,2014,1,1
+0677000,sunnyvale city,2015,3,0
+0677000,sunnyvale city,2017,1,0
+0678120,temecula city,2013,1,0
+0678120,temecula city,2016,3,0
+0678120,temecula city,2019,1,1
+0678582,thousand oaks city,2018,1,0
+0680000,torrance city,2013,3,1
+0680000,torrance city,2016,1,0
+0680000,torrance city,2017,1,0
+0680000,torrance city,2018,2,0
+0680000,torrance city,2020,2,1
+0681554,vacaville city,2013,2,0
+0681554,vacaville city,2017,1,0
+0681554,vacaville city,2019,1,0
+0681554,vacaville city,2021,1,0
+0681666,vallejo city,2013,2,0
+0681666,vallejo city,2014,1,0
+0681666,vallejo city,2015,1,0
+0681666,vallejo city,2017,1,0
+0681666,vallejo city,2018,1,1
+0681666,vallejo city,2019,2,1
+0681666,vallejo city,2020,1,1
+0681666,vallejo city,2022,1,0
+0682590,victorville city,2014,2,2
+0682590,victorville city,2018,1,0
+0682590,victorville city,2019,3,1
+0682590,victorville city,2020,2,0
+0682590,victorville city,2021,3,1
+0682590,victorville city,2022,2,1
+0682590,victorville city,2023,1,0
+0682954,visalia city,2013,3,0
+0682954,visalia city,2015,1,0
+0682954,visalia city,2016,1,0
+0682954,visalia city,2017,1,0
+0682954,visalia city,2019,1,0
+0682954,visalia city,2021,2,0
+0684200,west covina city,2014,2,1
+0684200,west covina city,2015,2,1
+0684200,west covina city,2016,1,0
+0684200,west covina city,2017,1,1
+0684200,west covina city,2021,1,0
+0803455,arvada city,2014,2,0
+0803455,arvada city,2016,1,0
+0803455,arvada city,2017,1,0
+0803455,arvada city,2018,3,0
+0803455,arvada city,2020,4,0
+0803455,arvada city,2021,3,0
+0803455,arvada city,2022,2,0
+0803455,arvada city,2023,1,0
+0804000,aurora city,2013,1,0
+0804000,aurora city,2014,2,0
+0804000,aurora city,2015,5,1
+0804000,aurora city,2016,3,0
+0804000,aurora city,2018,5,0
+0804000,aurora city,2019,3,1
+0804000,aurora city,2020,3,0
+0804000,aurora city,2021,2,0
+0804000,aurora city,2022,5,0
+0804000,aurora city,2023,3,2
+0807850,boulder city,2013,1,0
+0807850,boulder city,2015,1,0
+0807850,boulder city,2016,2,0
+0807850,boulder city,2019,1,0
+0807850,boulder city,2023,2,1
+0812815,centennial city,2016,1,0
+0812815,centennial city,2017,3,0
+0812815,centennial city,2018,4,0
+0812815,centennial city,2019,1,0
+0812815,centennial city,2020,1,0
+0812815,centennial city,2021,1,0
+0812815,centennial city,2022,1,0
+0812815,centennial city,2023,1,0
+0816000,colorado springs city,2015,2,1
+0816000,colorado springs city,2016,2,0
+0816000,colorado springs city,2017,3,2
+0816000,colorado springs city,2018,4,1
+0816000,colorado springs city,2019,6,0
+0816000,colorado springs city,2020,4,1
+0816000,colorado springs city,2021,7,0
+0816000,colorado springs city,2022,4,1
+0816000,colorado springs city,2023,3,1
+0820000,denver city,2013,5,0
+0820000,denver city,2014,4,1
+0820000,denver city,2015,6,0
+0820000,denver city,2016,7,2
+0820000,denver city,2017,5,0
+0820000,denver city,2018,8,0
+0820000,denver city,2019,9,0
+0820000,denver city,2020,11,1
+0820000,denver city,2021,10,0
+0820000,denver city,2022,6,1
+0820000,denver city,2023,7,4
+0827425,fort collins city,2014,1,0
+0827425,fort collins city,2015,1,0
+0827425,fort collins city,2016,1,0
+0827425,fort collins city,2017,3,1
+0827425,fort collins city,2022,3,0
+0827425,fort collins city,2023,2,1
+0832155,greeley city,2014,3,0
+0832155,greeley city,2015,2,0
+0832155,greeley city,2016,2,0
+0832155,greeley city,2017,1,0
+0832155,greeley city,2018,1,0
+0832155,greeley city,2020,1,0
+0832155,greeley city,2021,1,0
+0832155,greeley city,2022,3,0
+0832155,greeley city,2023,2,0
+0843000,lakewood city,2015,1,0
+0843000,lakewood city,2016,2,0
+0843000,lakewood city,2017,1,0
+0843000,lakewood city,2018,1,0
+0843000,lakewood city,2019,6,0
+0843000,lakewood city,2020,1,0
+0843000,lakewood city,2021,5,1
+0862000,pueblo city,2013,1,0
+0862000,pueblo city,2014,3,0
+0862000,pueblo city,2015,1,0
+0862000,pueblo city,2016,2,0
+0862000,pueblo city,2017,2,1
+0862000,pueblo city,2018,4,0
+0862000,pueblo city,2019,5,1
+0862000,pueblo city,2020,5,0
+0862000,pueblo city,2021,1,0
+0862000,pueblo city,2022,3,0
+0862000,pueblo city,2023,3,0
+0877290,thornton city,2013,2,0
+0877290,thornton city,2014,2,0
+0877290,thornton city,2015,1,0
+0877290,thornton city,2016,2,0
+0877290,thornton city,2017,6,1
+0877290,thornton city,2018,2,0
+0877290,thornton city,2020,1,0
+0877290,thornton city,2021,1,0
+0877290,thornton city,2022,1,0
+0877290,thornton city,2023,1,0
+0883835,westminster city,2014,1,0
+0883835,westminster city,2016,3,0
+0883835,westminster city,2017,5,0
+0883835,westminster city,2018,6,1
+0883835,westminster city,2019,2,1
+0883835,westminster city,2020,1,0
+0883835,westminster city,2021,3,0
+0883835,westminster city,2022,1,0
+0883835,westminster city,2023,4,1
+0908000,bridgeport city,2013,2,0
+0908000,bridgeport city,2017,1,0
+0937000,hartford city,2013,1,0
+0937000,hartford city,2015,1,1
+0937000,hartford city,2019,1,0
+0937000,hartford city,2020,1,0
+0937000,hartford city,2021,1,0
+0937000,hartford city,2023,2,1
+0952000,new haven city,2016,1,1
+0973000,stamford city,2016,1,1
+0973000,stamford city,2023,1,1
+0980000,waterbury city,2016,1,0
+0980000,waterbury city,2020,1,0
+0980000,waterbury city,2023,1,0
+1150000,washington city,2013,8,1
+1150000,washington city,2014,4,0
+1150000,washington city,2015,6,2
+1150000,washington city,2016,6,2
+1150000,washington city,2017,2,0
+1150000,washington city,2018,1,0
+1150000,washington city,2019,2,0
+1150000,washington city,2020,2,1
+1150000,washington city,2021,8,4
+1150000,washington city,2022,5,0
+1150000,washington city,2023,4,1
+1210275,cape coral city,2013,1,0
+1210275,cape coral city,2015,1,0
+1210275,cape coral city,2016,1,0
+1210275,cape coral city,2021,1,0
+1210275,cape coral city,2022,1,0
+1210275,cape coral city,2023,1,0
+1212875,clearwater city,2013,1,0
+1212875,clearwater city,2017,1,0
+1212875,clearwater city,2018,2,0
+1212875,clearwater city,2019,2,1
+1212875,clearwater city,2021,1,0
+1214400,coral springs city,2017,1,0
+1214400,coral springs city,2019,1,0
+1216475,davie town,2019,1,0
+1224000,fort lauderdale city,2013,3,1
+1224000,fort lauderdale city,2014,2,0
+1224000,fort lauderdale city,2015,3,1
+1224000,fort lauderdale city,2017,2,2
+1224000,fort lauderdale city,2018,1,0
+1224000,fort lauderdale city,2019,1,0
+1224000,fort lauderdale city,2020,2,1
+1224000,fort lauderdale city,2022,2,0
+1224000,fort lauderdale city,2023,2,1
+1225175,gainesville city,2013,1,0
+1225175,gainesville city,2014,1,0
+1225175,gainesville city,2016,1,1
+1225175,gainesville city,2017,1,0
+1230000,hialeah city,2013,4,0
+1230000,hialeah city,2014,2,2
+1230000,hialeah city,2017,2,0
+1230000,hialeah city,2018,1,0
+1230000,hialeah city,2020,1,0
+1232000,hollywood city,2014,2,1
+1232000,hollywood city,2016,1,1
+1232000,hollywood city,2017,1,0
+1232000,hollywood city,2018,2,1
+1232000,hollywood city,2019,1,0
+1232000,hollywood city,2020,2,0
+1232000,hollywood city,2022,3,0
+1235000,jacksonville city,2013,7,3
+1235000,jacksonville city,2014,7,1
+1235000,jacksonville city,2015,6,3
+1235000,jacksonville city,2016,4,1
+1235000,jacksonville city,2017,7,1
+1235000,jacksonville city,2018,4,1
+1235000,jacksonville city,2019,6,0
+1235000,jacksonville city,2020,8,1
+1235000,jacksonville city,2021,3,0
+1235000,jacksonville city,2022,8,0
+1235000,jacksonville city,2023,9,0
+1238250,lakeland city,2013,1,0
+1238250,lakeland city,2014,1,0
+1238250,lakeland city,2015,1,0
+1238250,lakeland city,2016,2,0
+1238250,lakeland city,2017,1,0
+1238250,lakeland city,2018,2,0
+1238250,lakeland city,2019,1,0
+1238250,lakeland city,2021,1,0
+1238250,lakeland city,2022,1,0
+1245000,miami city,2013,2,0
+1245000,miami city,2014,3,1
+1245000,miami city,2015,4,0
+1245000,miami city,2016,2,0
+1245000,miami city,2017,5,2
+1245000,miami city,2018,2,0
+1245000,miami city,2019,2,0
+1245000,miami city,2020,3,0
+1245000,miami city,2021,4,1
+1245000,miami city,2022,4,1
+1245000,miami city,2023,3,1
+1245060,miami gardens city,2013,1,0
+1245060,miami gardens city,2015,1,1
+1245060,miami gardens city,2016,1,0
+1245060,miami gardens city,2018,1,0
+1245060,miami gardens city,2019,1,0
+1245060,miami gardens city,2023,1,0
+1245975,miramar city,2013,3,0
+1245975,miramar city,2018,1,1
+1245975,miramar city,2019,5,2
+1253000,orlando city,2013,5,0
+1253000,orlando city,2014,5,1
+1253000,orlando city,2015,4,1
+1253000,orlando city,2016,4,2
+1253000,orlando city,2017,2,0
+1253000,orlando city,2018,4,1
+1253000,orlando city,2019,1,0
+1253000,orlando city,2020,3,0
+1253000,orlando city,2021,1,0
+1253000,orlando city,2022,3,1
+1253000,orlando city,2023,5,1
+1254000,palm bay city,2015,1,0
+1254000,palm bay city,2016,3,0
+1254000,palm bay city,2021,1,0
+1254000,palm bay city,2022,1,1
+1254000,palm bay city,2023,2,0
+1255775,pembroke pines city,2013,3,0
+1255775,pembroke pines city,2019,1,0
+1258050,pompano beach city,2014,1,0
+1258050,pompano beach city,2015,2,1
+1258050,pompano beach city,2016,1,0
+1258050,pompano beach city,2020,1,0
+1258050,pompano beach city,2022,1,0
+1258050,pompano beach city,2023,2,0
+1258715,port st. lucie city,2016,2,0
+1258715,port st. lucie city,2019,1,0
+1258715,port st. lucie city,2023,1,1
+1263000,st. petersburg city,2013,7,0
+1263000,st. petersburg city,2015,1,0
+1263000,st. petersburg city,2016,3,0
+1263000,st. petersburg city,2017,2,1
+1263000,st. petersburg city,2020,3,1
+1263000,st. petersburg city,2021,1,0
+1263000,st. petersburg city,2022,2,0
+1263000,st. petersburg city,2023,1,0
+1270600,tallahassee city,2014,4,0
+1270600,tallahassee city,2015,3,1
+1270600,tallahassee city,2018,2,1
+1270600,tallahassee city,2020,3,1
+1270600,tallahassee city,2021,1,0
+1270600,tallahassee city,2022,1,1
+1270600,tallahassee city,2023,1,0
+1271000,tampa city,2013,1,0
+1271000,tampa city,2014,2,0
+1271000,tampa city,2016,2,0
+1271000,tampa city,2017,1,1
+1271000,tampa city,2018,2,0
+1271000,tampa city,2019,2,0
+1271000,tampa city,2020,3,0
+1271000,tampa city,2021,2,0
+1271000,tampa city,2022,2,0
+1271000,tampa city,2023,1,0
+1276600,west palm beach city,2013,2,1
+1276600,west palm beach city,2014,1,0
+1276600,west palm beach city,2019,1,0
+1276600,west palm beach city,2021,1,0
+1276600,west palm beach city,2022,2,1
+1276600,west palm beach city,2023,1,0
+1303440,athens-clarke county unified government (balance),2014,1,0
+1303440,athens-clarke county unified government (balance),2019,6,2
+1303440,athens-clarke county unified government (balance),2020,1,0
+1303440,athens-clarke county unified government (balance),2021,2,1
+1303440,athens-clarke county unified government (balance),2023,1,0
+1304000,atlanta city,2013,1,0
+1304000,atlanta city,2014,2,1
+1304000,atlanta city,2015,2,0
+1304000,atlanta city,2016,1,1
+1304000,atlanta city,2017,3,1
+1304000,atlanta city,2018,5,1
+1304000,atlanta city,2019,3,2
+1304000,atlanta city,2020,6,0
+1304000,atlanta city,2021,6,0
+1304000,atlanta city,2022,9,4
+1304000,atlanta city,2023,4,1
+1304204,augusta-richmond county consolidated government (balance),2013,2,1
+1304204,augusta-richmond county consolidated government (balance),2015,1,0
+1304204,augusta-richmond county consolidated government (balance),2016,1,0
+1304204,augusta-richmond county consolidated government (balance),2018,1,0
+1304204,augusta-richmond county consolidated government (balance),2020,1,0
+1304204,augusta-richmond county consolidated government (balance),2021,1,0
+1304204,augusta-richmond county consolidated government (balance),2022,2,2
+1304204,augusta-richmond county consolidated government (balance),2023,1,0
+1319000,columbus city,2013,2,1
+1319000,columbus city,2014,1,0
+1319000,columbus city,2016,1,0
+1319000,columbus city,2017,4,1
+1319000,columbus city,2018,1,0
+1319000,columbus city,2019,1,1
+1319000,columbus city,2021,1,0
+1319000,columbus city,2022,2,0
+1319000,columbus city,2023,1,0
+1349008,macon-bibb county,2016,1,0
+1349008,macon-bibb county,2017,1,0
+1349008,macon-bibb county,2018,2,0
+1349008,macon-bibb county,2020,1,0
+1349008,macon-bibb county,2022,1,0
+1349008,macon-bibb county,2023,1,0
+1368516,sandy springs city,2018,1,0
+1368516,sandy springs city,2019,1,0
+1368516,sandy springs city,2020,1,0
+1369000,savannah city,2013,2,0
+1369000,savannah city,2014,1,0
+1369000,savannah city,2015,1,0
+1369000,savannah city,2018,3,1
+1369000,savannah city,2019,1,0
+1369000,savannah city,2020,2,0
+1369000,savannah city,2021,3,0
+1369000,savannah city,2022,4,0
+1372122,south fulton city,2013,1,0
+1372122,south fulton city,2014,1,1
+1372122,south fulton city,2017,1,0
+1372122,south fulton city,2018,1,0
+1372122,south fulton city,2019,2,0
+1372122,south fulton city,2020,2,0
+1372122,south fulton city,2021,2,1
+1372122,south fulton city,2022,1,0
+1372122,south fulton city,2023,1,0
+1608830,boise city city,2015,1,0
+1608830,boise city city,2016,3,0
+1608830,boise city city,2017,1,0
+1608830,boise city city,2018,2,0
+1608830,boise city city,2019,1,1
+1608830,boise city city,2021,4,1
+1608830,boise city city,2023,5,0
+1652120,meridian city,2018,2,0
+1652120,meridian city,2020,1,0
+1652120,meridian city,2023,1,0
+1656260,nampa city,2018,2,0
+1656260,nampa city,2020,1,0
+1656260,nampa city,2021,2,1
+1656260,nampa city,2023,1,0
+1703012,aurora city,2018,1,0
+1703012,aurora city,2019,1,0
+1703012,aurora city,2021,1,0
+1714000,chicago city,2013,14,3
+1714000,chicago city,2014,20,3
+1714000,chicago city,2015,11,3
+1714000,chicago city,2016,13,0
+1714000,chicago city,2017,14,4
+1714000,chicago city,2018,6,0
+1714000,chicago city,2019,9,3
+1714000,chicago city,2020,6,0
+1714000,chicago city,2021,8,3
+1714000,chicago city,2022,3,1
+1714000,chicago city,2023,7,2
+1738570,joliet city,2015,1,0
+1738570,joliet city,2019,2,0
+1738570,joliet city,2020,2,2
+1738570,joliet city,2021,1,0
+1738570,joliet city,2022,2,0
+1738570,joliet city,2023,2,0
+1751622,naperville city,2022,1,0
+1759000,peoria city,2017,1,0
+1759000,peoria city,2018,2,0
+1759000,peoria city,2022,1,0
+1765000,rockford city,2015,1,0
+1765000,rockford city,2017,1,0
+1765000,rockford city,2018,1,0
+1765000,rockford city,2021,1,0
+1765000,rockford city,2022,2,0
+1765000,rockford city,2023,1,0
+1772000,springfield city,2017,1,1
+1772000,springfield city,2023,1,0
+1822000,evansville city,2016,1,0
+1822000,evansville city,2017,1,0
+1822000,evansville city,2018,2,1
+1822000,evansville city,2019,2,0
+1822000,evansville city,2020,2,0
+1822000,evansville city,2021,1,1
+1822000,evansville city,2022,2,0
+1822000,evansville city,2023,3,2
+1825000,fort wayne city,2013,4,0
+1825000,fort wayne city,2015,1,0
+1825000,fort wayne city,2016,3,0
+1825000,fort wayne city,2019,1,0
+1825000,fort wayne city,2022,1,0
+1825000,fort wayne city,2023,2,1
+1836003,indianapolis city (balance),2013,8,1
+1836003,indianapolis city (balance),2014,5,1
+1836003,indianapolis city (balance),2015,10,1
+1836003,indianapolis city (balance),2016,4,1
+1836003,indianapolis city (balance),2017,2,1
+1836003,indianapolis city (balance),2018,1,0
+1836003,indianapolis city (balance),2019,1,0
+1836003,indianapolis city (balance),2020,3,0
+1836003,indianapolis city (balance),2021,4,0
+1836003,indianapolis city (balance),2022,4,1
+1836003,indianapolis city (balance),2023,12,2
+1871000,south bend city,2013,1,0
+1871000,south bend city,2018,1,0
+1871000,south bend city,2019,1,0
+1871000,south bend city,2020,1,0
+1871000,south bend city,2022,1,1
+1871000,south bend city,2023,1,0
+1912000,cedar rapids city,2015,1,0
+1912000,cedar rapids city,2016,1,0
+1912000,cedar rapids city,2021,1,0
+1912000,cedar rapids city,2022,1,0
+1919000,davenport city,2014,2,0
+1919000,davenport city,2017,1,0
+1919000,davenport city,2018,1,0
+1919000,davenport city,2021,1,1
+1919000,davenport city,2022,2,0
+1921000,des moines city,2013,2,0
+1921000,des moines city,2014,1,0
+1921000,des moines city,2015,2,1
+1921000,des moines city,2016,1,0
+1921000,des moines city,2017,1,0
+1921000,des moines city,2019,1,0
+1921000,des moines city,2022,1,0
+2036000,kansas city city,2013,1,0
+2036000,kansas city city,2014,2,0
+2036000,kansas city city,2015,2,1
+2036000,kansas city city,2018,2,0
+2036000,kansas city city,2019,2,0
+2036000,kansas city city,2021,3,0
+2036000,kansas city city,2022,2,0
+2036000,kansas city city,2023,3,1
+2052575,olathe city,2013,1,0
+2052575,olathe city,2016,1,0
+2052575,olathe city,2017,1,0
+2052575,olathe city,2022,1,0
+2052575,olathe city,2023,2,0
+2053775,overland park city,2015,1,0
+2053775,overland park city,2018,1,0
+2053775,overland park city,2020,1,0
+2053775,overland park city,2021,2,0
+2071000,topeka city,2013,1,0
+2071000,topeka city,2014,1,0
+2071000,topeka city,2015,1,0
+2071000,topeka city,2016,2,0
+2071000,topeka city,2017,1,0
+2071000,topeka city,2018,1,0
+2071000,topeka city,2020,1,0
+2071000,topeka city,2021,3,1
+2071000,topeka city,2022,3,0
+2079000,wichita city,2013,1,0
+2079000,wichita city,2014,3,0
+2079000,wichita city,2015,2,0
+2079000,wichita city,2016,1,0
+2079000,wichita city,2017,3,1
+2079000,wichita city,2018,1,0
+2079000,wichita city,2019,5,1
+2079000,wichita city,2020,2,0
+2079000,wichita city,2021,2,0
+2079000,wichita city,2022,1,0
+2079000,wichita city,2023,2,0
+2146027,lexington-fayette urban county,2014,1,0
+2146027,lexington-fayette urban county,2022,2,0
+2148006,louisville/jefferson county metro government (balance),2013,2,0
+2148006,louisville/jefferson county metro government (balance),2014,5,0
+2148006,louisville/jefferson county metro government (balance),2015,3,1
+2148006,louisville/jefferson county metro government (balance),2016,2,0
+2148006,louisville/jefferson county metro government (balance),2017,2,0
+2148006,louisville/jefferson county metro government (balance),2018,9,0
+2148006,louisville/jefferson county metro government (balance),2019,5,0
+2148006,louisville/jefferson county metro government (balance),2020,5,1
+2148006,louisville/jefferson county metro government (balance),2021,2,0
+2148006,louisville/jefferson county metro government (balance),2022,4,1
+2148006,louisville/jefferson county metro government (balance),2023,3,0
+2205000,baton rouge city,2013,2,0
+2205000,baton rouge city,2015,4,1
+2205000,baton rouge city,2016,5,0
+2205000,baton rouge city,2017,3,1
+2205000,baton rouge city,2018,1,0
+2205000,baton rouge city,2019,1,0
+2205000,baton rouge city,2020,1,0
+2205000,baton rouge city,2022,2,1
+2205000,baton rouge city,2023,3,2
+2240735,lafayette city,2013,1,0
+2240735,lafayette city,2014,1,1
+2240735,lafayette city,2020,2,0
+2240735,lafayette city,2021,1,0
+2240735,lafayette city,2022,2,0
+2240735,lafayette city,2023,1,0
+2255000,new orleans city,2013,1,1
+2255000,new orleans city,2014,2,0
+2255000,new orleans city,2015,5,0
+2255000,new orleans city,2016,2,0
+2255000,new orleans city,2017,1,0
+2255000,new orleans city,2019,3,0
+2255000,new orleans city,2022,1,0
+2255000,new orleans city,2023,1,0
+2270000,shreveport city,2013,1,0
+2270000,shreveport city,2014,1,0
+2270000,shreveport city,2015,3,0
+2270000,shreveport city,2017,1,1
+2270000,shreveport city,2018,4,1
+2270000,shreveport city,2019,3,0
+2270000,shreveport city,2020,3,1
+2270000,shreveport city,2021,1,0
+2270000,shreveport city,2023,6,2
+2404000,baltimore city,2013,9,4
+2404000,baltimore city,2014,4,1
+2404000,baltimore city,2015,3,0
+2404000,baltimore city,2016,5,0
+2404000,baltimore city,2017,6,0
+2404000,baltimore city,2018,3,0
+2404000,baltimore city,2019,5,1
+2404000,baltimore city,2020,3,0
+2404000,baltimore city,2021,5,0
+2404000,baltimore city,2022,3,2
+2404000,baltimore city,2023,3,0
+2507000,boston city,2013,4,0
+2507000,boston city,2014,2,0
+2507000,boston city,2015,3,0
+2507000,boston city,2016,3,0
+2507000,boston city,2019,3,0
+2507000,boston city,2020,1,1
+2507000,boston city,2021,3,1
+2507000,boston city,2022,1,0
+2507000,boston city,2023,1,0
+2509000,brockton city,2013,1,0
+2509000,brockton city,2015,1,1
+2509000,brockton city,2018,1,0
+2509000,brockton city,2020,1,0
+2511000,cambridge city,2015,1,0
+2511000,cambridge city,2023,1,0
+2537000,lowell city,2015,1,1
+2537000,lowell city,2016,1,0
+2537490,lynn city,2013,1,0
+2537490,lynn city,2015,1,0
+2537490,lynn city,2016,3,0
+2537490,lynn city,2021,1,0
+2555745,quincy city,2013,1,1
+2555745,quincy city,2021,1,0
+2567000,springfield city,2013,2,0
+2567000,springfield city,2014,1,0
+2567000,springfield city,2022,1,0
+2567000,springfield city,2023,1,0
+2582000,worcester city,2021,1,0
+2603000,ann arbor city,2014,1,0
+2621000,dearborn city,2014,1,0
+2621000,dearborn city,2015,2,2
+2621000,dearborn city,2016,1,0
+2621000,dearborn city,2017,1,0
+2621000,dearborn city,2018,2,0
+2621000,dearborn city,2020,2,0
+2621000,dearborn city,2022,2,0
+2622000,detroit city,2013,2,0
+2622000,detroit city,2014,5,0
+2622000,detroit city,2015,4,2
+2622000,detroit city,2016,1,0
+2622000,detroit city,2017,5,1
+2622000,detroit city,2018,5,0
+2622000,detroit city,2019,3,0
+2622000,detroit city,2020,6,0
+2622000,detroit city,2021,7,2
+2622000,detroit city,2022,6,0
+2622000,detroit city,2023,6,1
+2634000,grand rapids city,2015,1,0
+2634000,grand rapids city,2016,1,0
+2634000,grand rapids city,2017,1,0
+2634000,grand rapids city,2021,1,0
+2634000,grand rapids city,2022,1,1
+2646000,lansing city,2014,1,0
+2646000,lansing city,2015,1,0
+2646000,lansing city,2020,1,0
+2646000,lansing city,2022,1,0
+2646000,lansing city,2023,2,0
+2676460,sterling heights city,2014,1,0
+2676460,sterling heights city,2018,1,0
+2684000,warren city,2013,1,0
+2684000,warren city,2017,2,0
+2684000,warren city,2020,1,0
+2684000,warren city,2021,2,0
+2684000,warren city,2022,1,0
+2743000,minneapolis city,2013,2,0
+2743000,minneapolis city,2014,1,0
+2743000,minneapolis city,2015,3,2
+2743000,minneapolis city,2016,1,0
+2743000,minneapolis city,2017,1,1
+2743000,minneapolis city,2018,2,0
+2743000,minneapolis city,2019,2,0
+2743000,minneapolis city,2020,2,1
+2743000,minneapolis city,2021,2,1
+2743000,minneapolis city,2022,2,0
+2743000,minneapolis city,2023,3,0
+2754880,rochester city,2019,1,1
+2758000,st. paul city,2013,1,0
+2758000,st. paul city,2014,2,0
+2758000,st. paul city,2015,3,0
+2758000,st. paul city,2016,3,0
+2758000,st. paul city,2017,2,0
+2758000,st. paul city,2018,1,0
+2758000,st. paul city,2019,1,0
+2758000,st. paul city,2022,1,0
+2758000,st. paul city,2023,2,0
+2836000,jackson city,2014,1,1
+2836000,jackson city,2017,1,0
+2836000,jackson city,2018,3,0
+2836000,jackson city,2019,2,2
+2836000,jackson city,2020,1,0
+2836000,jackson city,2021,3,1
+2836000,jackson city,2022,5,1
+2836000,jackson city,2023,2,2
+2915670,columbia city,2015,2,1
+2915670,columbia city,2017,1,0
+2915670,columbia city,2020,1,0
+2915670,columbia city,2021,2,0
+2915670,columbia city,2023,2,0
+2935000,independence city,2013,2,1
+2935000,independence city,2015,1,0
+2935000,independence city,2017,3,1
+2935000,independence city,2019,1,0
+2935000,independence city,2021,2,0
+2935000,independence city,2022,1,1
+2938000,kansas city city,2013,8,3
+2938000,kansas city city,2014,5,1
+2938000,kansas city city,2015,4,0
+2938000,kansas city city,2016,6,0
+2938000,kansas city city,2017,5,0
+2938000,kansas city city,2018,8,0
+2938000,kansas city city,2019,4,1
+2938000,kansas city city,2020,9,1
+2938000,kansas city city,2021,2,0
+2938000,kansas city city,2022,4,0
+2938000,kansas city city,2023,5,0
+2941348,lee's summit city,2016,1,0
+2965000,st. louis city,2013,9,1
+2965000,st. louis city,2014,4,0
+2965000,st. louis city,2015,5,1
+2965000,st. louis city,2016,5,0
+2965000,st. louis city,2017,11,0
+2965000,st. louis city,2018,2,0
+2965000,st. louis city,2019,9,2
+2965000,st. louis city,2020,3,1
+2965000,st. louis city,2021,2,0
+2965000,st. louis city,2022,4,0
+2965000,st. louis city,2023,1,1
+2970000,springfield city,2013,1,0
+2970000,springfield city,2014,1,0
+2970000,springfield city,2015,3,1
+2970000,springfield city,2017,1,0
+2970000,springfield city,2018,2,0
+2970000,springfield city,2019,4,1
+2970000,springfield city,2020,1,0
+2970000,springfield city,2021,3,0
+2970000,springfield city,2022,3,0
+2970000,springfield city,2023,2,0
+3006550,billings city,2013,3,1
+3006550,billings city,2014,1,1
+3006550,billings city,2015,1,0
+3006550,billings city,2016,1,0
+3006550,billings city,2017,3,0
+3006550,billings city,2018,2,1
+3006550,billings city,2019,1,0
+3006550,billings city,2020,2,0
+3006550,billings city,2021,1,0
+3006550,billings city,2022,3,0
+3006550,billings city,2023,1,0
+3128000,lincoln city,2014,1,0
+3128000,lincoln city,2015,2,0
+3128000,lincoln city,2016,1,0
+3128000,lincoln city,2019,1,0
+3128000,lincoln city,2021,3,0
+3128000,lincoln city,2023,1,0
+3137000,omaha city,2013,3,0
+3137000,omaha city,2014,4,1
+3137000,omaha city,2015,4,1
+3137000,omaha city,2016,4,0
+3137000,omaha city,2017,1,1
+3137000,omaha city,2018,1,0
+3137000,omaha city,2019,1,0
+3137000,omaha city,2020,1,0
+3137000,omaha city,2021,2,1
+3137000,omaha city,2022,2,0
+3137000,omaha city,2023,3,0
+3231900,henderson city,2014,2,0
+3231900,henderson city,2015,1,0
+3231900,henderson city,2016,1,0
+3231900,henderson city,2018,3,0
+3231900,henderson city,2019,2,0
+3231900,henderson city,2020,3,0
+3231900,henderson city,2022,1,1
+3231900,henderson city,2023,3,0
+3240000,las vegas city,2013,3,0
+3240000,las vegas city,2014,5,1
+3240000,las vegas city,2015,5,2
+3240000,las vegas city,2016,3,0
+3240000,las vegas city,2017,4,0
+3240000,las vegas city,2018,7,0
+3240000,las vegas city,2019,4,1
+3240000,las vegas city,2020,5,0
+3240000,las vegas city,2021,9,2
+3240000,las vegas city,2022,8,1
+3240000,las vegas city,2023,5,1
+3251800,north las vegas city,2014,3,1
+3251800,north las vegas city,2015,4,0
+3251800,north las vegas city,2016,1,1
+3251800,north las vegas city,2018,2,0
+3251800,north las vegas city,2019,1,0
+3251800,north las vegas city,2020,5,1
+3251800,north las vegas city,2022,3,1
+3251800,north las vegas city,2023,4,0
+3260600,reno city,2013,3,0
+3260600,reno city,2014,3,0
+3260600,reno city,2015,1,0
+3260600,reno city,2016,5,1
+3260600,reno city,2017,4,0
+3260600,reno city,2018,2,0
+3260600,reno city,2020,3,0
+3260600,reno city,2021,1,0
+3260600,reno city,2022,2,0
+3260600,reno city,2023,3,1
+3268400,sparks city,2013,2,0
+3268400,sparks city,2016,1,0
+3268400,sparks city,2017,1,0
+3268400,sparks city,2018,2,0
+3268400,sparks city,2019,1,0
+3268400,sparks city,2020,2,0
+3268400,sparks city,2022,2,0
+3268400,sparks city,2023,1,0
+3345140,manchester city,2013,1,0
+3345140,manchester city,2019,1,0
+3345140,manchester city,2020,1,0
+3345140,manchester city,2022,1,0
+3345140,manchester city,2023,1,0
+3421000,elizabeth city,2023,1,0
+3436000,jersey city city,2013,1,0
+3436000,jersey city city,2014,1,1
+3436000,jersey city city,2019,2,0
+3436000,jersey city city,2022,1,0
+3436000,jersey city city,2023,2,0
+3451000,newark city,2013,6,1
+3451000,newark city,2016,3,0
+3451000,newark city,2017,5,0
+3451000,newark city,2018,3,0
+3451000,newark city,2019,3,0
+3451000,newark city,2021,2,2
+3451000,newark city,2023,2,1
+3457000,paterson city,2014,1,0
+3457000,paterson city,2016,1,0
+3457000,paterson city,2017,2,0
+3457000,paterson city,2020,4,0
+3457000,paterson city,2021,1,0
+3457000,paterson city,2022,1,1
+3457000,paterson city,2023,1,0
+3502000,albuquerque city,2013,6,0
+3502000,albuquerque city,2014,9,1
+3502000,albuquerque city,2015,4,0
+3502000,albuquerque city,2016,6,0
+3502000,albuquerque city,2017,6,1
+3502000,albuquerque city,2018,9,1
+3502000,albuquerque city,2019,5,0
+3502000,albuquerque city,2020,7,1
+3502000,albuquerque city,2021,7,0
+3502000,albuquerque city,2022,14,2
+3502000,albuquerque city,2023,9,1
+3539380,las cruces city,2013,1,0
+3539380,las cruces city,2014,3,0
+3539380,las cruces city,2015,1,0
+3539380,las cruces city,2016,2,0
+3539380,las cruces city,2017,3,0
+3539380,las cruces city,2018,4,0
+3539380,las cruces city,2019,2,0
+3539380,las cruces city,2020,3,1
+3539380,las cruces city,2021,2,0
+3539380,las cruces city,2022,3,1
+3539380,las cruces city,2023,2,1
+3563460,rio rancho city,2014,1,0
+3563460,rio rancho city,2021,1,0
+3563460,rio rancho city,2022,3,0
+3563460,rio rancho city,2023,2,0
+3611000,buffalo city,2017,1,1
+3611000,buffalo city,2018,3,1
+3611000,buffalo city,2022,2,0
+3651000,new york city,2013,12,4
+3651000,new york city,2014,13,3
+3651000,new york city,2015,9,2
+3651000,new york city,2016,10,1
+3651000,new york city,2017,12,2
+3651000,new york city,2018,5,0
+3651000,new york city,2019,15,2
+3651000,new york city,2020,10,1
+3651000,new york city,2021,11,4
+3651000,new york city,2022,14,1
+3651000,new york city,2023,10,1
+3663000,rochester city,2015,1,1
+3663000,rochester city,2016,1,0
+3663000,rochester city,2018,1,0
+3663000,rochester city,2020,1,1
+3663000,rochester city,2021,4,0
+3663000,rochester city,2022,2,1
+3663000,rochester city,2023,2,1
+3673000,syracuse city,2016,3,0
+3673000,syracuse city,2019,2,1
+3673000,syracuse city,2020,3,0
+3673000,syracuse city,2021,1,0
+3673000,syracuse city,2023,3,3
+3684000,yonkers city,2015,1,1
+3684000,yonkers city,2017,1,0
+3684000,yonkers city,2022,1,0
+3710740,cary town,2017,1,0
+3710740,cary town,2023,2,0
+3712000,charlotte city,2013,4,1
+3712000,charlotte city,2014,1,0
+3712000,charlotte city,2015,2,0
+3712000,charlotte city,2016,6,1
+3712000,charlotte city,2017,4,1
+3712000,charlotte city,2018,4,0
+3712000,charlotte city,2019,4,0
+3712000,charlotte city,2021,4,0
+3712000,charlotte city,2022,5,1
+3712000,charlotte city,2023,5,0
+3714100,concord city,2013,1,0
+3714100,concord city,2020,1,0
+3714100,concord city,2022,2,0
+3714100,concord city,2023,1,0
+3719000,durham city,2013,3,0
+3719000,durham city,2015,1,1
+3719000,durham city,2016,1,0
+3719000,durham city,2017,2,0
+3719000,durham city,2018,1,0
+3719000,durham city,2019,1,0
+3719000,durham city,2022,2,0
+3722920,fayetteville city,2013,3,0
+3722920,fayetteville city,2014,4,0
+3722920,fayetteville city,2016,1,0
+3722920,fayetteville city,2017,1,0
+3722920,fayetteville city,2018,2,1
+3722920,fayetteville city,2019,1,0
+3722920,fayetteville city,2020,4,0
+3722920,fayetteville city,2022,3,1
+3722920,fayetteville city,2023,2,2
+3728000,greensboro city,2014,1,0
+3728000,greensboro city,2016,1,0
+3728000,greensboro city,2017,1,0
+3728000,greensboro city,2021,2,2
+3728000,greensboro city,2022,1,0
+3728000,greensboro city,2023,2,0
+3731400,high point city,2019,3,0
+3731400,high point city,2020,3,0
+3731400,high point city,2021,1,0
+3731400,high point city,2023,1,0
+3755000,raleigh city,2013,2,1
+3755000,raleigh city,2016,2,0
+3755000,raleigh city,2019,1,0
+3755000,raleigh city,2020,2,1
+3755000,raleigh city,2022,2,0
+3755000,raleigh city,2023,4,2
+3774440,wilmington city,2013,2,0
+3774440,wilmington city,2014,1,0
+3774440,wilmington city,2019,1,0
+3774440,wilmington city,2023,1,0
+3775000,winston-salem city,2014,1,1
+3775000,winston-salem city,2018,1,0
+3775000,winston-salem city,2019,1,0
+3775000,winston-salem city,2021,3,0
+3825700,fargo city,2022,1,0
+3825700,fargo city,2023,1,0
+3901000,akron city,2013,1,0
+3901000,akron city,2014,1,1
+3901000,akron city,2015,2,2
+3901000,akron city,2016,1,0
+3901000,akron city,2017,2,1
+3901000,akron city,2018,1,0
+3901000,akron city,2019,1,0
+3901000,akron city,2021,1,0
+3901000,akron city,2022,3,1
+3915000,cincinnati city,2013,1,0
+3915000,cincinnati city,2014,4,0
+3915000,cincinnati city,2015,5,2
+3915000,cincinnati city,2016,3,2
+3915000,cincinnati city,2018,2,0
+3915000,cincinnati city,2019,1,0
+3915000,cincinnati city,2020,1,0
+3915000,cincinnati city,2022,1,0
+3915000,cincinnati city,2023,1,1
+3916000,cleveland city,2013,2,1
+3916000,cleveland city,2014,3,2
+3916000,cleveland city,2015,4,2
+3916000,cleveland city,2017,2,0
+3916000,cleveland city,2018,2,2
+3916000,cleveland city,2019,1,0
+3916000,cleveland city,2020,2,0
+3916000,cleveland city,2021,4,0
+3916000,cleveland city,2022,3,1
+3918000,columbus city (oh),2013,8,0
+3918000,columbus city (oh),2014,5,0
+3918000,columbus city (oh),2015,6,0
+3918000,columbus city (oh),2016,7,1
+3918000,columbus city (oh),2017,5,1
+3918000,columbus city (oh),2018,13,1
+3918000,columbus city (oh),2019,1,0
+3918000,columbus city (oh),2020,6,2
+3918000,columbus city (oh),2021,5,0
+3918000,columbus city (oh),2022,4,2
+3918000,columbus city (oh),2023,5,0
+3921000,dayton city,2013,2,0
+3921000,dayton city,2014,3,0
+3921000,dayton city,2015,1,0
+3921000,dayton city,2016,1,0
+3921000,dayton city,2017,3,0
+3921000,dayton city,2019,2,0
+3921000,dayton city,2020,4,1
+3921000,dayton city,2021,3,0
+3921000,dayton city,2022,1,0
+3921000,dayton city,2023,3,1
+3977000,toledo city,2013,1,0
+3977000,toledo city,2014,1,1
+3977000,toledo city,2015,1,0
+3977000,toledo city,2016,1,0
+3977000,toledo city,2017,1,0
+3977000,toledo city,2018,3,0
+3977000,toledo city,2020,2,0
+3977000,toledo city,2021,3,1
+3977000,toledo city,2022,1,0
+3977000,toledo city,2023,2,0
+4009050,broken arrow city,2016,1,0
+4009050,broken arrow city,2020,1,0
+4009050,broken arrow city,2021,1,0
+4009050,broken arrow city,2023,1,0
+4052500,norman city,2014,2,0
+4052500,norman city,2018,1,0
+4052500,norman city,2022,3,2
+4052500,norman city,2023,1,1
+4055000,oklahoma city city,2013,7,1
+4055000,oklahoma city city,2014,10,1
+4055000,oklahoma city city,2015,9,1
+4055000,oklahoma city city,2016,6,1
+4055000,oklahoma city city,2017,7,1
+4055000,oklahoma city city,2018,5,0
+4055000,oklahoma city city,2019,7,0
+4055000,oklahoma city city,2020,10,2
+4055000,oklahoma city city,2021,3,1
+4055000,oklahoma city city,2022,4,0
+4055000,oklahoma city city,2023,4,2
+4075000,tulsa city,2013,3,2
+4075000,tulsa city,2014,5,3
+4075000,tulsa city,2015,4,2
+4075000,tulsa city,2016,8,2
+4075000,tulsa city,2017,6,0
+4075000,tulsa city,2018,4,1
+4075000,tulsa city,2019,6,0
+4075000,tulsa city,2020,4,0
+4075000,tulsa city,2021,3,0
+4075000,tulsa city,2022,6,1
+4075000,tulsa city,2023,4,0
+4123850,eugene city,2013,1,0
+4123850,eugene city,2015,1,0
+4123850,eugene city,2017,1,0
+4123850,eugene city,2018,1,0
+4123850,eugene city,2019,2,1
+4123850,eugene city,2020,1,0
+4123850,eugene city,2023,1,0
+4131250,gresham city,2016,1,0
+4131250,gresham city,2018,1,0
+4131250,gresham city,2022,1,0
+4131250,gresham city,2023,1,0
+4134100,hillsboro city,2013,1,0
+4134100,hillsboro city,2015,1,0
+4134100,hillsboro city,2017,1,0
+4134100,hillsboro city,2018,1,0
+4134100,hillsboro city,2019,1,0
+4134100,hillsboro city,2020,1,0
+4134100,hillsboro city,2023,2,1
+4159000,portland city,2013,2,0
+4159000,portland city,2014,3,0
+4159000,portland city,2015,3,1
+4159000,portland city,2016,1,0
+4159000,portland city,2017,2,1
+4159000,portland city,2018,4,0
+4159000,portland city,2019,6,0
+4159000,portland city,2020,1,0
+4159000,portland city,2021,5,1
+4159000,portland city,2022,5,1
+4159000,portland city,2023,5,1
+4164900,salem city,2014,2,0
+4164900,salem city,2015,2,0
+4164900,salem city,2019,1,0
+4164900,salem city,2020,1,0
+4164900,salem city,2021,2,0
+4164900,salem city,2022,3,0
+4164900,salem city,2023,5,1
+4202000,allentown city,2013,1,0
+4202000,allentown city,2015,1,0
+4202000,allentown city,2017,1,0
+4202000,allentown city,2018,1,1
+4202000,allentown city,2019,1,0
+4202000,allentown city,2023,1,0
+4260000,philadelphia city,2013,11,1
+4260000,philadelphia city,2014,4,0
+4260000,philadelphia city,2015,4,1
+4260000,philadelphia city,2016,6,0
+4260000,philadelphia city,2017,5,2
+4260000,philadelphia city,2018,5,0
+4260000,philadelphia city,2020,8,1
+4260000,philadelphia city,2021,4,0
+4260000,philadelphia city,2022,5,0
+4260000,philadelphia city,2023,8,0
+4261000,pittsburgh city,2013,1,0
+4261000,pittsburgh city,2014,1,0
+4261000,pittsburgh city,2015,2,1
+4261000,pittsburgh city,2016,1,0
+4261000,pittsburgh city,2017,1,0
+4261000,pittsburgh city,2018,1,0
+4261000,pittsburgh city,2019,3,0
+4261000,pittsburgh city,2020,1,0
+4261000,pittsburgh city,2021,1,1
+4261000,pittsburgh city,2022,1,0
+4261000,pittsburgh city,2023,3,0
+4459000,providence city,2013,1,0
+4459000,providence city,2014,1,0
+4459000,providence city,2017,1,0
+4459000,providence city,2021,1,1
+4459000,providence city,2023,1,0
+4513330,charleston city,2013,1,0
+4513330,charleston city,2014,2,0
+4513330,charleston city,2015,2,0
+4513330,charleston city,2020,2,0
+4513330,charleston city,2021,1,0
+4513330,charleston city,2022,1,1
+4513330,charleston city,2023,2,1
+4516000,columbia city,2013,5,0
+4516000,columbia city,2015,1,0
+4516000,columbia city,2020,1,0
+4550875,north charleston city,2013,1,0
+4550875,north charleston city,2014,1,0
+4550875,north charleston city,2015,1,1
+4550875,north charleston city,2016,1,0
+4550875,north charleston city,2017,1,0
+4550875,north charleston city,2020,1,0
+4550875,north charleston city,2022,2,1
+4550875,north charleston city,2023,1,0
+4659020,sioux falls city,2013,1,0
+4659020,sioux falls city,2016,1,0
+4659020,sioux falls city,2018,1,1
+4659020,sioux falls city,2020,1,0
+4659020,sioux falls city,2021,2,1
+4659020,sioux falls city,2022,3,0
+4714000,chattanooga city,2015,3,0
+4714000,chattanooga city,2016,1,0
+4714000,chattanooga city,2017,1,0
+4714000,chattanooga city,2018,1,0
+4714000,chattanooga city,2019,2,0
+4714000,chattanooga city,2020,2,0
+4714000,chattanooga city,2021,1,0
+4714000,chattanooga city,2022,2,0
+4714000,chattanooga city,2023,2,0
+4715160,clarksville city,2018,2,0
+4715160,clarksville city,2019,1,0
+4715160,clarksville city,2021,2,0
+4715160,clarksville city,2023,2,0
+4740000,knoxville city,2013,1,0
+4740000,knoxville city,2014,5,1
+4740000,knoxville city,2015,1,0
+4740000,knoxville city,2017,1,0
+4740000,knoxville city,2018,1,0
+4740000,knoxville city,2019,2,0
+4740000,knoxville city,2020,1,0
+4740000,knoxville city,2021,3,1
+4740000,knoxville city,2022,1,1
+4740000,knoxville city,2023,2,1
+4748000,memphis city,2013,9,1
+4748000,memphis city,2014,2,1
+4748000,memphis city,2015,4,1
+4748000,memphis city,2016,3,0
+4748000,memphis city,2017,2,1
+4748000,memphis city,2018,6,1
+4748000,memphis city,2019,7,0
+4748000,memphis city,2020,1,0
+4748000,memphis city,2021,8,3
+4748000,memphis city,2022,6,1
+4748000,memphis city,2023,5,1
+4751560,murfreesboro city,2023,1,0
+4752006,nashville-davidson metropolitan government (balance),2014,3,0
+4752006,nashville-davidson metropolitan government (balance),2015,4,1
+4752006,nashville-davidson metropolitan government (balance),2016,1,0
+4752006,nashville-davidson metropolitan government (balance),2017,2,0
+4752006,nashville-davidson metropolitan government (balance),2018,2,0
+4752006,nashville-davidson metropolitan government (balance),2020,2,0
+4752006,nashville-davidson metropolitan government (balance),2021,9,1
+4752006,nashville-davidson metropolitan government (balance),2022,3,1
+4752006,nashville-davidson metropolitan government (balance),2023,5,0
+4801000,abilene city,2014,1,0
+4801000,abilene city,2017,1,0
+4801000,abilene city,2018,1,0
+4801000,abilene city,2020,1,0
+4801000,abilene city,2021,1,0
+4801000,abilene city,2022,1,0
+4801924,allen city,2016,1,0
+4801924,allen city,2017,1,0
+4801924,allen city,2023,1,0
+4803000,amarillo city,2013,1,1
+4803000,amarillo city,2015,1,0
+4803000,amarillo city,2016,1,0
+4803000,amarillo city,2017,2,0
+4803000,amarillo city,2018,2,0
+4803000,amarillo city,2019,2,0
+4803000,amarillo city,2020,1,0
+4803000,amarillo city,2021,2,0
+4803000,amarillo city,2022,3,0
+4803000,amarillo city,2023,4,2
+4804000,arlington city,2013,2,1
+4804000,arlington city,2015,2,1
+4804000,arlington city,2017,4,0
+4804000,arlington city,2018,2,0
+4804000,arlington city,2019,3,2
+4804000,arlington city,2020,1,0
+4804000,arlington city,2021,2,0
+4804000,arlington city,2023,2,0
+4805000,austin city,2013,4,1
+4805000,austin city,2014,2,0
+4805000,austin city,2015,6,1
+4805000,austin city,2016,6,2
+4805000,austin city,2017,4,0
+4805000,austin city,2018,6,0
+4805000,austin city,2019,5,1
+4805000,austin city,2020,1,1
+4805000,austin city,2021,4,0
+4805000,austin city,2022,7,0
+4805000,austin city,2023,8,1
+4807000,beaumont city,2014,1,0
+4807000,beaumont city,2016,2,0
+4807000,beaumont city,2019,2,0
+4807000,beaumont city,2020,2,0
+4810768,brownsville city,2014,1,0
+4810768,brownsville city,2015,1,0
+4810768,brownsville city,2016,1,1
+4810768,brownsville city,2017,1,0
+4810768,brownsville city,2018,2,0
+4810768,brownsville city,2019,2,0
+4810768,brownsville city,2023,1,0
+4813024,carrollton city,2016,1,0
+4813024,carrollton city,2019,2,1
+4815976,college station city,2021,3,0
+4815976,college station city,2023,1,0
+4817000,corpus christi city,2013,1,0
+4817000,corpus christi city,2015,2,1
+4817000,corpus christi city,2016,1,0
+4817000,corpus christi city,2017,1,1
+4817000,corpus christi city,2018,1,0
+4817000,corpus christi city,2019,2,0
+4817000,corpus christi city,2020,4,0
+4817000,corpus christi city,2021,4,1
+4817000,corpus christi city,2022,2,0
+4817000,corpus christi city,2023,1,0
+4819000,dallas city,2013,10,3
+4819000,dallas city,2014,14,4
+4819000,dallas city,2015,7,2
+4819000,dallas city,2016,6,0
+4819000,dallas city,2017,4,0
+4819000,dallas city,2018,9,1
+4819000,dallas city,2019,7,0
+4819000,dallas city,2020,3,0
+4819000,dallas city,2021,2,1
+4819000,dallas city,2022,5,2
+4819000,dallas city,2023,8,1
+4819972,denton city,2015,1,0
+4819972,denton city,2018,1,0
+4819972,denton city,2020,3,1
+4819972,denton city,2022,1,0
+4822660,edinburg city,2015,1,0
+4822660,edinburg city,2017,1,1
+4822660,edinburg city,2019,1,0
+4822660,edinburg city,2021,1,0
+4822660,edinburg city,2022,1,1
+4824000,el paso city,2013,3,1
+4824000,el paso city,2014,1,0
+4824000,el paso city,2015,5,2
+4824000,el paso city,2016,3,2
+4824000,el paso city,2017,1,0
+4824000,el paso city,2018,1,0
+4824000,el paso city,2019,5,1
+4824000,el paso city,2020,3,1
+4824000,el paso city,2021,4,1
+4824000,el paso city,2022,5,1
+4824000,el paso city,2023,3,0
+4827000,fort worth city,2013,9,1
+4827000,fort worth city,2014,5,0
+4827000,fort worth city,2015,6,0
+4827000,fort worth city,2016,5,1
+4827000,fort worth city,2017,1,0
+4827000,fort worth city,2018,4,0
+4827000,fort worth city,2019,6,2
+4827000,fort worth city,2021,4,1
+4827000,fort worth city,2022,5,0
+4827000,fort worth city,2023,7,2
+4827684,frisco city,2017,1,0
+4827684,frisco city,2022,1,1
+4829000,garland city,2013,1,0
+4829000,garland city,2014,1,0
+4829000,garland city,2015,2,0
+4829000,garland city,2018,2,0
+4829000,garland city,2019,2,0
+4829000,garland city,2020,3,0
+4829000,garland city,2021,1,0
+4829000,garland city,2022,1,1
+4829000,garland city,2023,1,0
+4830464,grand prairie city,2013,2,0
+4830464,grand prairie city,2017,1,1
+4830464,grand prairie city,2018,1,0
+4830464,grand prairie city,2019,1,0
+4830464,grand prairie city,2020,1,0
+4830464,grand prairie city,2022,1,0
+4830464,grand prairie city,2023,1,0
+4835000,houston city,2013,20,1
+4835000,houston city,2014,17,4
+4835000,houston city,2015,19,1
+4835000,houston city,2016,13,1
+4835000,houston city,2017,12,1
+4835000,houston city,2018,14,3
+4835000,houston city,2019,16,2
+4835000,houston city,2020,17,4
+4835000,houston city,2021,17,2
+4835000,houston city,2022,24,3
+4835000,houston city,2023,19,5
+4837000,irving city,2013,2,0
+4837000,irving city,2014,1,0
+4837000,irving city,2015,1,0
+4837000,irving city,2016,1,0
+4837000,irving city,2017,2,0
+4837000,irving city,2018,1,0
+4837000,irving city,2020,2,0
+4837000,irving city,2022,1,0
+4839148,killeen city,2013,1,0
+4839148,killeen city,2017,1,0
+4839148,killeen city,2019,1,0
+4839148,killeen city,2021,2,1
+4839148,killeen city,2022,1,1
+4839148,killeen city,2023,1,0
+4841464,laredo city,2014,1,1
+4841464,laredo city,2015,3,1
+4841464,laredo city,2016,1,0
+4841464,laredo city,2017,1,0
+4841464,laredo city,2018,6,4
+4841464,laredo city,2020,2,0
+4841464,laredo city,2021,1,0
+4841980,league city city,2018,3,0
+4841980,league city city,2019,2,1
+4841980,league city city,2020,2,0
+4841980,league city city,2022,1,0
+4841980,league city city,2023,1,0
+4842508,lewisville city,2014,1,0
+4842508,lewisville city,2019,1,1
+4845000,lubbock city,2014,3,1
+4845000,lubbock city,2018,1,1
+4845000,lubbock city,2020,4,0
+4845000,lubbock city,2022,1,0
+4845000,lubbock city,2023,4,0
+4845384,mcallen city,2021,1,1
+4845384,mcallen city,2023,2,0
+4845744,mckinney city,2015,1,0
+4845744,mckinney city,2021,1,0
+4845744,mckinney city,2022,1,0
+4845744,mckinney city,2023,2,0
+4847892,mesquite city,2013,1,0
+4847892,mesquite city,2015,1,0
+4847892,mesquite city,2017,1,0
+4847892,mesquite city,2018,1,0
+4847892,mesquite city,2020,1,0
+4847892,mesquite city,2021,1,0
+4847892,mesquite city,2022,1,0
+4847892,mesquite city,2023,3,2
+4848072,midland city,2014,3,1
+4848072,midland city,2015,1,0
+4848072,midland city,2016,1,0
+4848072,midland city,2019,2,0
+4848072,midland city,2020,1,0
+4848072,midland city,2022,2,1
+4848072,midland city,2023,1,0
+4853388,odessa city,2015,1,0
+4853388,odessa city,2016,2,0
+4853388,odessa city,2019,4,0
+4853388,odessa city,2021,1,0
+4853388,odessa city,2022,1,0
+4853388,odessa city,2023,1,0
+4856000,pasadena city,2018,3,0
+4856000,pasadena city,2022,1,0
+4856000,pasadena city,2023,1,0
+4856348,pearland city,2016,1,0
+4856348,pearland city,2018,1,0
+4856348,pearland city,2019,1,0
+4856348,pearland city,2020,1,0
+4858016,plano city,2017,2,0
+4858016,plano city,2020,1,0
+4858016,plano city,2021,1,0
+4858016,plano city,2022,1,1
+4861796,richardson city,2013,1,0
+4861796,richardson city,2014,1,0
+4863500,round rock city,2013,2,0
+4863500,round rock city,2014,1,1
+4863500,round rock city,2018,1,0
+4863500,round rock city,2021,1,0
+4863500,round rock city,2022,3,0
+4863500,round rock city,2023,1,0
+4865000,san antonio city,2013,10,3
+4865000,san antonio city,2014,8,2
+4865000,san antonio city,2015,7,1
+4865000,san antonio city,2016,9,2
+4865000,san antonio city,2017,4,0
+4865000,san antonio city,2018,10,1
+4865000,san antonio city,2019,10,1
+4865000,san antonio city,2020,10,0
+4865000,san antonio city,2021,14,1
+4865000,san antonio city,2022,7,2
+4865000,san antonio city,2023,15,2
+4870808,sugar land city,2014,1,0
+4870808,sugar land city,2022,1,0
+4870808,sugar land city,2023,1,0
+4874144,tyler city,2020,1,0
+4876000,waco city,2013,1,0
+4876000,waco city,2014,1,1
+4876000,waco city,2015,1,0
+4876000,waco city,2017,1,0
+4876000,waco city,2018,1,0
+4876000,waco city,2019,1,0
+4876000,waco city,2021,2,0
+4876000,waco city,2023,1,0
+4879000,wichita falls city,2014,2,0
+4879000,wichita falls city,2017,1,0
+4879000,wichita falls city,2021,2,0
+4879000,wichita falls city,2022,1,0
+4879000,wichita falls city,2023,1,0
+4962470,provo city,2021,2,1
+4962470,provo city,2023,1,0
+4967000,salt lake city city,2013,2,0
+4967000,salt lake city city,2014,3,1
+4967000,salt lake city city,2015,2,0
+4967000,salt lake city city,2017,3,0
+4967000,salt lake city city,2018,4,0
+4967000,salt lake city city,2019,2,0
+4967000,salt lake city city,2020,3,0
+4967000,salt lake city city,2021,2,0
+4967000,salt lake city city,2022,4,1
+4967000,salt lake city city,2023,1,0
+4982950,west jordan city,2015,1,0
+4982950,west jordan city,2016,1,0
+4982950,west jordan city,2018,3,0
+4982950,west jordan city,2019,1,0
+4982950,west jordan city,2020,3,0
+4982950,west jordan city,2023,2,0
+4983470,west valley city city,2018,1,0
+4983470,west valley city city,2019,1,1
+4983470,west valley city city,2020,1,0
+4983470,west valley city city,2021,3,0
+4983470,west valley city city,2022,1,0
+4983470,west valley city city,2023,2,0
+5101000,alexandria city,2013,2,1
+5101000,alexandria city,2017,2,0
+5101000,alexandria city,2020,1,0
+5116000,chesapeake city,2015,1,0
+5116000,chesapeake city,2016,1,0
+5116000,chesapeake city,2020,1,0
+5116000,chesapeake city,2021,2,1
+5135000,hampton city,2015,1,0
+5135000,hampton city,2017,1,0
+5135000,hampton city,2023,2,1
+5156000,newport news city,2015,1,0
+5156000,newport news city,2017,2,0
+5156000,newport news city,2019,2,0
+5157000,norfolk city,2013,1,0
+5157000,norfolk city,2014,3,0
+5157000,norfolk city,2016,5,1
+5157000,norfolk city,2017,2,0
+5157000,norfolk city,2019,1,0
+5157000,norfolk city,2022,2,0
+5167000,richmond city,2013,1,0
+5167000,richmond city,2015,1,0
+5167000,richmond city,2016,1,0
+5167000,richmond city,2017,2,0
+5167000,richmond city,2018,1,0
+5167000,richmond city,2022,3,2
+5167000,richmond city,2023,2,0
+5168000,roanoke city,2017,1,0
+5168000,roanoke city,2019,1,0
+5168000,roanoke city,2020,1,0
+5168000,roanoke city,2021,1,0
+5168000,roanoke city,2023,2,0
+5182000,virginia beach city,2013,2,0
+5182000,virginia beach city,2015,2,1
+5182000,virginia beach city,2016,2,1
+5182000,virginia beach city,2018,1,0
+5182000,virginia beach city,2019,2,0
+5182000,virginia beach city,2020,3,0
+5182000,virginia beach city,2021,1,0
+5182000,virginia beach city,2022,1,0
+5182000,virginia beach city,2023,1,0
+5305210,bellevue city,2023,1,0
+5322640,everett city,2016,1,1
+5322640,everett city,2019,2,0
+5322640,everett city,2023,3,0
+5323515,federal way city,2013,1,0
+5323515,federal way city,2016,1,0
+5323515,federal way city,2017,2,0
+5323515,federal way city,2018,1,0
+5323515,federal way city,2019,2,0
+5323515,federal way city,2022,3,0
+5323515,federal way city,2023,2,0
+5335415,kent city,2014,1,0
+5335415,kent city,2016,1,0
+5335415,kent city,2017,3,0
+5335415,kent city,2018,2,0
+5335415,kent city,2019,1,0
+5335415,kent city,2020,1,0
+5335415,kent city,2022,2,0
+5335415,kent city,2023,2,0
+5357745,renton city,2013,1,0
+5357745,renton city,2019,2,1
+5357745,renton city,2020,1,0
+5357745,renton city,2021,1,0
+5363000,seattle city,2013,7,1
+5363000,seattle city,2014,7,1
+5363000,seattle city,2015,3,1
+5363000,seattle city,2016,2,0
+5363000,seattle city,2017,3,0
+5363000,seattle city,2018,3,0
+5363000,seattle city,2019,2,0
+5363000,seattle city,2020,2,1
+5363000,seattle city,2021,3,0
+5363000,seattle city,2022,3,1
+5363000,seattle city,2023,1,1
+5367000,spokane city,2013,3,1
+5367000,spokane city,2014,1,0
+5367000,spokane city,2015,1,0
+5367000,spokane city,2016,1,0
+5367000,spokane city,2017,5,0
+5367000,spokane city,2018,1,0
+5367000,spokane city,2019,3,0
+5367000,spokane city,2020,3,1
+5367000,spokane city,2021,1,0
+5367000,spokane city,2022,4,0
+5367000,spokane city,2023,1,0
+5367167,spokane valley city,2013,1,0
+5367167,spokane valley city,2014,2,0
+5367167,spokane valley city,2018,1,0
+5367167,spokane valley city,2019,2,1
+5367167,spokane valley city,2020,2,0
+5367167,spokane valley city,2022,1,0
+5367167,spokane valley city,2023,1,0
+5370000,tacoma city,2015,2,0
+5370000,tacoma city,2016,2,0
+5370000,tacoma city,2017,3,0
+5370000,tacoma city,2018,2,0
+5370000,tacoma city,2019,3,1
+5370000,tacoma city,2020,1,1
+5370000,tacoma city,2022,5,0
+5370000,tacoma city,2023,2,0
+5374060,vancouver city,2013,2,0
+5374060,vancouver city,2014,1,1
+5374060,vancouver city,2017,2,0
+5374060,vancouver city,2018,1,0
+5374060,vancouver city,2019,3,0
+5374060,vancouver city,2020,3,0
+5374060,vancouver city,2021,2,1
+5374060,vancouver city,2022,1,0
+5374060,vancouver city,2023,1,0
+5531000,green bay city,2013,1,0
+5531000,green bay city,2015,2,0
+5531000,green bay city,2018,1,0
+5531000,green bay city,2019,1,1
+5531000,green bay city,2020,1,0
+5531000,green bay city,2021,1,0
+5548000,madison city,2013,2,0
+5548000,madison city,2014,2,0
+5548000,madison city,2015,2,2
+5548000,madison city,2016,1,0
+5548000,madison city,2019,1,0
+5553000,milwaukee city,2013,4,0
+5553000,milwaukee city,2014,2,0
+5553000,milwaukee city,2015,3,0
+5553000,milwaukee city,2016,4,0
+5553000,milwaukee city,2017,6,2
+5553000,milwaukee city,2018,2,0
+5553000,milwaukee city,2019,2,0
+5553000,milwaukee city,2020,5,1
+5553000,milwaukee city,2021,4,0
+5553000,milwaukee city,2022,5,1
+5553000,milwaukee city,2023,4,1
